@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  reflectiveLoader.vcxproj -> C:\sektor7\malware_dev_intermediate\reflectiveCode\reflectiveLoader\x64\Release\reflectiveLoader.exe
